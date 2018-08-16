@@ -1,3 +1,4 @@
-#I am master v1
-def index
+#I am branch 1
+def hello_world
+  puts "hello world"
 end
