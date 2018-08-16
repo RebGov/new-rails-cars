@@ -1,3 +1,4 @@
 #I am branch 1
-def index
+def hello_world
+  puts "hello world"
 end
